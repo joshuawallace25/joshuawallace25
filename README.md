@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @joshuawallace25
-- 👀 I’m interested in software engineering and web development 
-- 🌱 I’m currently learning Java script
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Joshua Lawrence Wallace 
+- 👀 I’m interested in software engineering, web development, Artificial Intelligence 
+- 🌱 I’m currently learning flutter framework 
 - 📫 How to reach me +250798653557
 
 <!---
