@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joshua Lawrence Wallace 
-- 👀 I’m interested in software engineering, web development, Artificial Intelligence 
-- 🌱 I’m currently learning flutter framework 
+- 👋 Hi, I’m Joshua Lawrence Wallace a delicated Mobile Application Developer 
+- 👀 I’m interested in Software Engineering, Artificial Intelligence
+- 🌱 I’m currently learning Data Structure and Algorithm
 - 📫 How to reach me +250798653557
 
 <!---
