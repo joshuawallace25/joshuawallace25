@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joshua Wallace
+# 👋 Hi, I'm Joshua Lawrence Wallace
 
 🚀 ** Flutter Developer | Mobile App Enthusiast | Web Development**
 
@@ -36,7 +36,7 @@ I thrive on building apps that **solve real problems** with elegance and efficie
 I’m always open to exciting projects, innovative ideas, and collaboration opportunities.
 
 - 📧 [Email Me](mailto:joshualawrencewallace@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/joshua-lawrence-wallace-7a9b92308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/https://www.linkedin.com/in/joshua-lawrence-wallace-7a9b92308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📱 [Portfolio](https://twitter.com/your-twitter-handle)
 
 Let’s build the future with code!
