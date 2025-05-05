@@ -1,7 +1,48 @@
-I am a passionate Flutter developer with over two years of experience building innovative mobile applications. My expertise lies in state management using GetX, crafting responsive UI/UX designs, and integrating modern features like Google Maps, Firebase, and RFID systems. I thrive on delivering structured, high-performance apps for a wide range of industries, from student management systems to mental health chatbots.
- My approach is always user-focused, combining cutting-edge tech with a clean, maintainable code structure. With a strong foundation in project organization and a detail-oriented mindset, I aim to develop impactful solutions that simplify complex workflows.
+# 👋 Hi, I'm Joshua Wallace
 
-Let’s connect and create the future with code!
+🚀 **Passionate Flutter Developer | Mobile App Enthusiast | UI/UX Craftsman**
+
+I'm a Flutter developer with over **2 years of experience** creating innovative, scalable, and high-performance mobile applications. I specialize in:
+
+- ⚙️ **State Management** with **GetX**
+- 🎨 **Responsive UI/UX** design with a focus on user-centric experiences
+- 🗺️ Integration of **Google Maps**, 🔥 **Firebase**, and 📡 **RFID systems**
+- 📱 Building real-world apps from **student management systems** to **mental health chatbots**
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Dart, JavaScript, HTML/CSS
+- **Frameworks:** Flutter, Firebase
+- **Tools:** Android Studio, VS Code, Git, Postman
+- **Other:** REST APIs, Google Maps SDK, RFID tech, GetX
+
+---
+
+## 🧠 What Drives Me
+
+I thrive on building apps that **solve real problems** with elegance and efficiency. My development style emphasizes:
+
+- ✅ Clean architecture & maintainable code
+- 🧩 Modular, scalable project structures
+- 🧑‍💻 A detail-oriented mindset with a passion for problem-solving
+- 🔍 Continuous learning and adopting modern tools
+
+---
+
+## 🌍 Let's Connect & Collaborate
+
+I’m always open to exciting projects, innovative ideas, and collaboration opportunities.
+
+- 📧 [Email Me](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
+- 📱 [Twitter](https://twitter.com/your-twitter-handle) *(optional)*
+
+Let’s build the future with code!
+
+---
+
 <!---
 joshuawallace25/joshuawallace25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
