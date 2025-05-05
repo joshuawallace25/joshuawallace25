@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joshua Lawrence Wallace
 
-🚀 ** Flutter Developer | Mobile App Enthusiast | Web Development**
+🚀  Flutter Developer | Mobile App Enthusiast | Web Development
 
 I'm a Flutter developer with over **3 years of experience** creating innovative, scalable, and high-performance mobile applications. I specialize in:
 
