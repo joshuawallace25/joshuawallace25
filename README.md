@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Joshua Wallace
 
-🚀 **Passionate Flutter Developer | Mobile App Enthusiast | UI/UX Craftsman**
+🚀 ** Flutter Developer | Mobile App Enthusiast | Web Development**
 
-I'm a Flutter developer with over **2 years of experience** creating innovative, scalable, and high-performance mobile applications. I specialize in:
+I'm a Flutter developer with over **3 years of experience** creating innovative, scalable, and high-performance mobile applications. I specialize in:
 
 - ⚙️ **State Management** with **GetX**
 - 🎨 **Responsive UI/UX** design with a focus on user-centric experiences
@@ -13,8 +13,8 @@ I'm a Flutter developer with over **2 years of experience** creating innovative,
 
 ## 🛠 Tech Stack
 
-- **Languages:** Dart, JavaScript, HTML/CSS
-- **Frameworks:** Flutter, Firebase
+- **Languages:** Dart, JavaScript, React, HTML/CSS
+- **Frameworks:** Flutter, React Native, Firebase
 - **Tools:** Android Studio, VS Code, Git, Postman
 - **Other:** REST APIs, Google Maps SDK, RFID tech, GetX
 
@@ -35,9 +35,9 @@ I thrive on building apps that **solve real problems** with elegance and efficie
 
 I’m always open to exciting projects, innovative ideas, and collaboration opportunities.
 
-- 📧 [Email Me](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 📱 [Twitter](https://twitter.com/your-twitter-handle) *(optional)*
+- 📧 [Email Me](mailto:joshualawrencewallace@gmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/joshua-lawrence-wallace-7a9b92308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 📱 [Portfolio](https://twitter.com/your-twitter-handle)
 
 Let’s build the future with code!
 
