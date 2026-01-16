@@ -16,7 +16,7 @@ I'm a Flutter developer with over **3 years of experience** creating innovative,
 - **Languages:** Dart, JavaScript, React, HTML/CSS
 - **Frameworks:** Flutter, React Native, Firebase
 - **Tools:** Android Studio, VS Code, Git, Postman
-- **Other:** REST APIs, Google Maps SDK, RFID tech, GetX
+- **Other:** REST APIs, Google Maps SDK, RFID tech, Bloc, GetX
 
 ---
 
