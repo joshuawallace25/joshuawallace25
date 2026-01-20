@@ -4,7 +4,7 @@
 
 I'm a Flutter developer with over **3 years of experience** creating innovative, scalable, and high-performance mobile applications. I specialize in:
 
-- ⚙️ **State Management** with **GetX**
+- ⚙️ **State Management** with **GetX, Bloc**
 - 🎨 **Responsive UI/UX** design with a focus on user-centric experiences
 - 🗺️ Integration of **Google Maps**, 🔥 **Firebase**, and 📡 **RFID systems**
 - 📱 Building real-world apps from **student management systems** to **mental health chatbots**
@@ -12,11 +12,12 @@ I'm a Flutter developer with over **3 years of experience** creating innovative,
 ---
 
 ## 🛠 Tech Stack
-
-- **Languages:** Dart, JavaScript, React, HTML/CSS
-- **Frameworks:** Flutter, React Native, Firebase
-- **Tools:** Android Studio, VS Code, Git, Postman
-- **Other:** REST APIs, Google Maps SDK, RFID tech, Bloc, GetX
+- **Mobile App Development:**Flutter,React Anative
+- **Database MAnagement:** MySQLt, PostgreSQL, MongoDB, Firebase(Firestore/Realtime DB),phpMyAdmin
+- **Web Development & CMS:** React.js, Next.js, Laravel, WordPress
+- **API Development & Integration:** Node.js, Express.js, RESTful APIs
+- **UI/UX:**Responsive design,Bootstrap
+- **Tools & Frameworks:** Git ,Agil methodologies
 
 ---
 
@@ -24,10 +25,10 @@ I'm a Flutter developer with over **3 years of experience** creating innovative,
 
 I thrive on building apps that **solve real problems** with elegance and efficiency. My development style emphasizes:
 
-- ✅ Clean architecture & maintainable code
-- 🧩 Modular, scalable project structures
-- 🧑‍💻 A detail-oriented mindset with a passion for problem-solving
-- 🔍 Continuous learning and adopting modern tools
+-  Clean architecture & maintainable code
+-  Modular, scalable project structures
+-  A detail-oriented mindset with a passion for problem-solving
+-  Continuous learning and adopting modern tools
 
 ---
 
