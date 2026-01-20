@@ -12,12 +12,12 @@ I'm a Flutter developer with over **3 years of experience** creating innovative,
 ---
 
 ## 🛠 Tech Stack
-- **Mobile App Development:**Flutter,React Anative
-- **Database MAnagement:** MySQLt, PostgreSQL, MongoDB, Firebase(Firestore/Realtime DB),phpMyAdmin
+- **Database Management:** MySQL, PostgreSQL, MongoDB, Firebase(Firestore/Realtime DB),phpMyAdmin
 - **Web Development & CMS:** React.js, Next.js, Laravel, WordPress
 - **API Development & Integration:** Node.js, Express.js, RESTful APIs
 - **UI/UX:**Responsive design,Bootstrap
 - **Tools & Frameworks:** Git ,Agil methodologies
+- **Mobile App Development:**Flutter,React Native
 
 ---
 
